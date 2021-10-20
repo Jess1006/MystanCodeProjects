@@ -7,13 +7,13 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 ## Project Source Codes:
 * [Hangman Game](https://github.com/Jess1006/MystanCodeProjects/blob/main/MystanCodeProjects/hangman_game/hangman.py)
   * python semantics & syntax 
-*  [My Drawing]()
+*  [My Drawing](https://github.com/Jess1006/MystanCodeProjects/blob/main/MystanCodeProjects/my_drawing/my_drawing.py)
   * image produce
-*  [Pedestrian Removing Application]()
+*  [Pedestrian Removing Application](https://github.com/Jess1006/MystanCodeProjects/blob/main/MystanCodeProjects/my_photoshop/stanCodoshop.py)
   * image processing
-*  [Breakout Game]()
+*  [Breakout Game](https://github.com/Jess1006/MystanCodeProjects/blob/main/MystanCodeProjects/breakout_game/breakout.py)
   * animation & game designing
-*  [Name Popularity Searching System]()
+*  [Name Popularity Searching System](https://github.com/Jess1006/MystanCodeProjects/blob/main/MystanCodeProjects/name_searching_system/babygraphics.py)
   * data structure
-*  [Boggle Game Server]()
+*  [Boggle Game Server](https://github.com/Jess1006/MystanCodeProjects/blob/main/MystanCodeProjects/boggle_game_solver/boggle.py)
   * recursive function
